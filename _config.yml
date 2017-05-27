@@ -11,16 +11,16 @@ url:        	  /Notepad
 
 # Owner/author information
 owner:
-  name:           Hossain Mohd Faysal
-  avatar:         hmfaysal.jpg
-  email:          hmfaysal@alum.mit.edu
+  name:           Kapil Kumar
+# avatar:         hmfaysal.jpg
+  email:          kapilkd13@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Awesome Dude, Awesome Life
+  description:    Frolicking in the ocean of Knowledge!!
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        hmfaysal
-  facebook:       hmfaysal
-  github:         hmfaysal      
-  instagram:      hmfaysal
+#  twitter:        hmfaysal
+  facebook:       kapilkd13
+  github:         kapilkd13      
+  instagram:      kapilkd13
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    https://plus.google.com/u/0/102602916593522619858
 
@@ -45,7 +45,7 @@ links:
     url: /about
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Asia/Dhaka
+timezone:    Asia/Calcutta
 future:      true
 highlighter: pygments
 markdown:    kramdown
@@ -71,8 +71,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://hmfaysal.github.io/Notepad/'
-  relativeLinks: 'http://hmfaysal.github.io/Notepad/links.jsonp'
+  siteurl: 'http://kapilkd13.github.io/Notepad/'
+  relativeLinks: 'http://kapilkd13.github.io/Notepad/links.jsonp'
   media: 'images'
   metadata:
     _posts:
