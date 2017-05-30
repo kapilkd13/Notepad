@@ -7,7 +7,7 @@ dropcap:			true
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
-url:        	  /Notepad
+url:        	  /blog
 
 # Owner/author information
 owner:
@@ -17,7 +17,7 @@ owner:
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    Frolicking in the ocean of Knowledge!!
   # Social networking links used in footer. Update and remove as you like.
-#  twitter:        hmfaysal
+#  twitter:       
   facebook:       kapilkd13
   github:         kapilkd13      
   instagram:      kapilkd13
@@ -71,8 +71,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://kapilkd13.github.io/Notepad/'
-  relativeLinks: 'http://kapilkd13.github.io/Notepad/links.jsonp'
+  siteurl: 'http://kapilkd13.github.io/blog/'
+  relativeLinks: 'http://kapilkd13.github.io/blog/links.jsonp'
   media: 'images'
   metadata:
     _posts:
