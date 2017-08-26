@@ -6,7 +6,7 @@ headline:
 modified: 2017-08-26
 category: GSOC
 tags: [GSOC cwltool schema-salad CWL]
-imagefeature: cwl-logo.jpg
+imagefeature: cwl-logo.svg
 comments: true
 mathjax: 
 ---
